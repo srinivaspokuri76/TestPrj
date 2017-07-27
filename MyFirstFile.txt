@@ -1,3 +1,4 @@
 Text added in file.
 Changed in the test branch.
 Merging with master.
+Added next change in the branch.
